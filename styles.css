@@ -1,0 +1,11 @@
+#rowsOfLetters { 
+    text-align: center;
+}
+#numbersRow {
+    text-align: center;
+}
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
